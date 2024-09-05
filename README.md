@@ -6,7 +6,7 @@
 
 
 ## About GabrixDocs
-This is a imple Task Manager thet manages your tasks in bit funkey way. you can also play with it by simply dragging them.
+This is a simple Task Manager that manages your tasks in bit funkey way. you can also play with it by simply dragging them.
 
 ### Built With
 
